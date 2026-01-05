@@ -1,0 +1,5 @@
+Hai, this file contains sentences for practicing RESET and REVERT
+
+Line 1
+Line 2
+Line 3
